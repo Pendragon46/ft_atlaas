@@ -13,6 +13,20 @@ The goal was to build a complete, production-shaped social platform as a team: a
 account system, real-time features, media handling, an admin back-office, monitoring, and
 full internationalization, all containerized and reachable over HTTPS with a single command.
 
+## Live Demo
+
+Explore **ft_atlas**: [Visit the application](https://ft-atlaas.onrender.com/)
+
+Browse posts, explore tags, discover related content, and test the platform's features.
+
+<details>
+  <summary>Demo Account Credentials</summary>
+
+  - **Email:** demo_account@atlaas.com
+  - **Password:** Demo123!
+
+</details>
+
 ### Key features
 
 - **Accounts & auth** : email/password sign-up & login (hashed + salted with bcrypt),
